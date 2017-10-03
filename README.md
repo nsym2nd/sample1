@@ -4,4 +4,5 @@
 * もう一度
 * 2ndで編集
 * collaboratorに追加　→　accept後、masterへのpushに成功
-* masterを保護
+* masterを保護 → masterへのpushができた
+* collabo剥奪
