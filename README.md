@@ -3,4 +3,4 @@
 * さらに変更
 * もう一度
 * 2ndで編集
-* collaboratorに追加
+* collaboratorに追加　→　accept後、masterへのpushに成功
